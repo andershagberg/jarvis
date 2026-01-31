@@ -10,6 +10,7 @@
 
 - **AI & AGI** — follows developments closely
 - **Agentic Coding** — active practitioner
+- **Digital Identity** — eIDAS, Verifiable Credentials, SSI
 
 ### Tools & Frameworks
 - Claude Code
@@ -19,6 +20,7 @@
 - BMAD-METHOD
 - Get-shit-done
 - Everything-Claude (testing)
+- Walt.id (digital identity)
 
 ## Context
 
