@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "ops-dashboard": {
+      "version": "1.0.0",
+      "installedAt": 1770106946808
+    },
+    "clawshell": {
+      "version": "0.1.0",
+      "installedAt": 1770106948391
+    }
+  }
+}
