@@ -4,6 +4,7 @@
 - **What to call them:** Anders
 - **Pronouns:** *(not specified)*
 - **Timezone:** Europe/Stockholm
+- **Location:** Norra Ängby, Stockholm (west side)
 - **Notes:** 
 
 ## Interests
